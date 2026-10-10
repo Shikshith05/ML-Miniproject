@@ -1,0 +1,7 @@
+aspect,model,majority_star,star_acc,within1_acc,macro_f1,polarity_acc
+overall,Baseline(majority),5,0.4323,0.7641,0.12072889757732319,0.7641
+value,Baseline(majority),5,0.4093,0.7238,0.11617114879727523,0.7238
+rooms,Baseline(majority),5,0.4252,0.7325,0.11933763682290204,0.7325
+location,Baseline(majority),5,0.6381,0.876,0.15581466332946708,0.876
+cleanliness,Baseline(majority),5,0.5595,0.8257,0.14350753446617506,0.8257
+sleep_quality,Baseline(majority),5,0.4965,0.7763,0.13270965586368194,0.7763

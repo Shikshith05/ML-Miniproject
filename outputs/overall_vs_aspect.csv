@@ -1,0 +1,7 @@
+aspect,aspect_model_star,overall_model_star,aspect_model_polarity,overall_model_polarity
+overall,0.6178,0.6178,0.839,0.839
+value,0.4854,0.5023,0.7558,0.7753
+rooms,0.5365,0.5453,0.7791,0.789
+location,0.626,0.4941,0.8614,0.7837
+cleanliness,0.5892,0.5561,0.8452,0.8211
+sleep_quality,0.5472,0.5337,0.7991,0.7936
